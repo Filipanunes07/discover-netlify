@@ -8,4 +8,4 @@
 
 ## Deployment
 
-* Link to the website deployed on Netlify : [Link]()
+* Link to the website deployed on Netlify : [https://www.ikea.com/pt/pt/p/millberget-cadeira-giratoria-kimstad-branco-20339415/]()
